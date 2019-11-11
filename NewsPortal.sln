@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal", "NewsPortal\NewsPortal.csproj", "{1DAAB361-5145-4BE2-9732-6954451591DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.Logic", "NewsPortal.Logic\NewsPortal.Logic.csproj", "{6EB41978-36A0-4F2E-A8DF-03E1189B39E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DAAB361-5145-4BE2-9732-6954451591DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAAB361-5145-4BE2-9732-6954451591DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAAB361-5145-4BE2-9732-6954451591DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAAB361-5145-4BE2-9732-6954451591DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB41978-36A0-4F2E-A8DF-03E1189B39E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB41978-36A0-4F2E-A8DF-03E1189B39E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB41978-36A0-4F2E-A8DF-03E1189B39E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB41978-36A0-4F2E-A8DF-03E1189B39E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F3C44C-4BC7-4EB7-8F63-4E71BBC2C835}
+	EndGlobalSection
+EndGlobal
