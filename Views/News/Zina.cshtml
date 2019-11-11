@@ -1,0 +1,9 @@
+﻿@model NewsPortal.Logic.News
+@{
+    ViewData["Title"] = "Zina";
+}
+
+<h2>@Model.Title</h2>
+<p>@Model.Author, @Model.CreatedOn.ToShortDateString()</p>
+<img src="@Model.Photo" />
+<p>@Model.Description</p>
